@@ -20,7 +20,7 @@
 
 <br/>
 
-<h3 align="center> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahuel-cabral-0b20354a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nahuel%20Cabral-blue?style=flat-square&logo=linkedin"></a>
