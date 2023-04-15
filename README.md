@@ -19,8 +19,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kbrol126)
-
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=kbrol126" alt="visitor badge"/>
+ 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
