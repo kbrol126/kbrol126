@@ -1,6 +1,5 @@
  <h1 align="center">Nahuel Cabral</h1>
- <img src="https://avatars.githubusercontent.com/u/88683584?s=400&u=c7d42ce685a5e08e7222ba2b69d9eaee210bc428&v=4" alt="">
-
+ 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -22,8 +21,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="ver" />
+  <img height="180em" src="ver" />
 </a>
 
 <br/>
@@ -31,8 +30,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="vacio"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="vacio"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nahuel-cabral-0b20354a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nahuel%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="vacio"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nahuel.cabral@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
