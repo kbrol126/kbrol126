@@ -20,13 +20,6 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="ver" />
-  <img height="180em" src="ver" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
