@@ -1,2 +1,2 @@
 ### Hi there 👋
-<h1>Nahue<h1>
+<h1 align="center">Nahue<h1>
