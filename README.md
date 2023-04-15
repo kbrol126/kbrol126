@@ -19,8 +19,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=kbrol126" alt="visitor badge"/>
- 
+
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -28,5 +27,8 @@
 <a href="https://www.instagram.com/nahuel126"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nahuel126-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nahuel.cabral@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nahuel.cabral@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+<br/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=kbrol126" alt="visitor badge"/>
+ 
 
 
