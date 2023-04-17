@@ -1,4 +1,8 @@
- <h1 align="center">Nahuel Cabral</h1>
+<p aling="justify">Mi nombre es Nahuel Cabral y me considero un estudiante autodidacta en el mundo del desarrollo de software. Me apasiona crear soluciones tecnológicas que puedan tener un impacto positivo en la vida de las personas y, como tal, me he enfocado en convertirme en un desarrollador Full Stack.
+
+Mis habilidades incluyen el desarrollo de aplicaciones web y móviles, así como también la construcción de bases de datos y la integración de APIs. Como estudiante autodidacta, he trabajado duro para perfeccionar mis habilidades en lenguajes de programación como JavaScript, TypeScript.
+
+Mi objetivo es trabajar en una empresa que valore el aprendizaje continuo y que me permita seguir creciendo como desarrollador Full Stack. Estoy emocionado por las oportunidades que me esperan en el futuro y estoy seguro de que con mi pasión por el desarrollo de software y mi actitud de aprendizaje constante, puedo hacer grandes contribuciones a cualquier equipo en el que trabaje.</p>
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
